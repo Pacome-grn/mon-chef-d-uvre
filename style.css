@@ -1,7 +1,10 @@
 body {    
     font-family: Arial, sans-sertif;
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: #02153f;
+    color: #ffffff;
     margin: 0;
 }
-
+.container {
+max-width: 960px;
+margin: 0 auto;
+}
