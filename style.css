@@ -8,3 +8,13 @@ body {
 max-width: 960px;
 margin: 0 auto;
 }
+header {
+    display: flex;
+}
+header {
+    display: flex;
+    /* ??? : Quelle propriété pour pousser les éléments aux extrémités ? */
+    /* ??? : Quelle propriété pour centrer les éléments verticalement ? */
+    padding: 1rem 2rem;
+    background-color: white;
+}
